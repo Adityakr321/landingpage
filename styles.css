@@ -1,0 +1,99 @@
+#title {
+    background-color: #ff4c68;
+    color: #fff
+  }
+
+  h1 {
+    font-family: "Montserrat";
+    font-size: 4rem;
+    line-height: 1.5;
+  }
+
+  .container-fluid {
+    padding: 3% 15%;
+
+  }
+
+  .navbar {
+    padding-bottom: 4.5rem;
+  }
+
+  .navbar-brand {
+    font-family: cursive;
+    font-size: 3rem;
+    font-weight: bold;
+
+  }
+
+  .nav-item {
+    padding: 0 18px;
+  }
+
+  .nav-link {
+    font-size: 1.5rem;
+    font-family: sans-serif;
+    margin-right: 50px;
+  }
+
+  .sign-button {
+    margin: 5% 3% 5% 0;
+  }
+
+  .title-image {
+    width: 85%;
+    border-radius: 5%;
+    margin-left: 237px;
+  }
+
+  .item {
+    margin-left: 50%;
+  }
+
+  #features {
+    padding: 7% 15%;
+    background-color: #fff;
+  }
+
+  #features h3 {
+    font-size: 2.2rem;
+  }
+
+  .feature-box {
+    text-align: center;
+    padding: 5%;
+  }
+
+  h3 {
+    font-family: 'sans-serif';
+    font-weight: bolder;
+  }
+
+  .icon {
+    color: #ef8172;
+    margin-bottom: 1rem;
+  }
+
+  .icon:hover {
+    color: #ff4c68;
+  }
+
+  @media (max-width : 1100px) {
+    #title {
+      text-align: center;
+    }
+
+    .title-image {
+      width: 70%;
+      margin-left: 0px;
+    }
+  }
+
+  #footer {
+    text-align: center;
+    padding: 5% 10%;
+    background-color: #ff4c68;
+  }
+
+  .social-icon {
+    margin: 20px 10px;
+  }
